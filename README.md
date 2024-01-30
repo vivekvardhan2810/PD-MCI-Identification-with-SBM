@@ -1,2 +1,2 @@
 # PD-MCI-Identification-with-SBM
-To identify Parkinson's disease with mild cognitive impairment (PD-MCI) through surface-based morphometry (SBM) based machine learning model.
+<p>When I was Searching About Parkinson's disease, I got to observe an Journal paper Titled "An SBM-based machine learning model for identifying mild cognitive impairment in patients with Parkinson's disease"</p>
